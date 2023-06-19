@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1687190902 source:d:\unlam\topicos\trabajopracticointegrador2023\main.c
+	"main.h"
+
+1687130308 d:\unlam\topicos\trabajopracticointegrador2023\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"fecha.h"
+	"generico.h"
+
+1687131918 source:d:\unlam\topicos\trabajopracticointegrador2023\fecha.c
+	"fecha.h"
+
+1687051473 d:\unlam\topicos\trabajopracticointegrador2023\fecha.h
+	<stdio.h>
+	<stdlib.h>
+
+1687214764 source:d:\unlam\topicos\trabajopracticointegrador2023\funciones.c
+	"funciones.h"
+
+1687190522 d:\unlam\topicos\trabajopracticointegrador2023\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generico.h"
+	"fecha.h"
+
+1687129931 d:\unlam\topicos\trabajopracticointegrador2023\generico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687133889 source:d:\unlam\topicos\trabajopracticointegrador2023\generico.c
+	"generico.h"
+
